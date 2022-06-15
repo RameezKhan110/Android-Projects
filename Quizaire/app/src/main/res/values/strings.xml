@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Quizaire</string>
+
+    <string name="score">Score 0/8</string>
+    <string name="questionnumber">1/8 Question</string>
+
+    <string name="question_1">What Technology is used to make telephone calls over the internet possible?</string>
+    <string name="question_1A">Bluetooth</string>
+    <string name="question_1B">Ethernet</string>
+    <string name="question_1C">NFC</string>
+    <string name="question_1D">VoIP</string>
+    <string name="answer_1">VoIP</string>
+
+    <string name="question_2">What is part of a database that holds only one type of information?</string>
+    <string name="question_2A">Report</string>
+    <string name="question_2B">Field</string>
+    <string name="question_2C">Record</string>
+    <string name="question_2D">File</string>
+    <string name="answer_2">Field</string>
+
+    <string name="question_3">.MOV extension refers usually to what kind of file?</string>
+    <string name="question_3A">Image File</string>
+    <string name="question_3B">Audio File</string>
+    <string name="question_3C">Animation/Movie file</string>
+    <string name="question_3D">MS Office Document</string>
+    <string name="answer_3">Animation/Movie file</string>
+
+    <string name="question_4">The most common format for a home video recorder is VHS. VHS stands for?</string>
+    <string name="question_4A">Video Home System</string>
+    <string name="question_4B">Very High Speed</string>
+    <string name="question_4C">Video Horizontal Standard</string>
+    <string name="question_4D">Voltage House Standard</string>
+    <string name="answer_4">Video Home System</string>
+
+    <string name="question_5">What is a Web Browser?</string>
+    <string name="question_5A">A kind of spider</string>
+    <string name="question_5B">A computer that stores WWW files</string>
+    <string name="question_5C">A person who likes to look at websites</string>
+    <string name="question_5D">A software program that allows you to access sites on the World Wide Web</string>
+    <string name="answer_5">A software program that allows you to access sites on the World Wide Web</string>
+
+    <string name="question_6">How many Bits is a Byte?</string>
+    <string name="question_6A">12</string>
+    <string name="question_6B">8</string>
+    <string name="question_6C">10</string>
+    <string name="question_6D">4</string>
+    <string name="answer_6">8</string>
+
+    <string name="question_7">How do you subscribe to an Internet mailing list?</string>
+    <string name="question_7A">Contact your internet service provider</string>
+    <string name="question_7B">Send e-mail to the list manager</string>
+    <string name="question_7C">Telephone the mailing list web master</string>
+    <string name="question_7D">Send a letter to the list</string>
+    <string name="answer_7">Send e-mail to the list manager</string>
+
+    <string name="question_8">To select text by shading as you drag the mouse arrow over the text is known as?</string>
+    <string name="question_8A">To Highlight</string>
+    <string name="question_8B">Clip Art</string>
+    <string name="question_8C">To Fetch</string>
+    <string name="question_8D">To Decode</string>
+    <string name="answer_8">To Highlight</string>
+
+
+</resources>
