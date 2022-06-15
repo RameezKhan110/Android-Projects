@@ -1,0 +1,4 @@
+#Wed Feb 23 15:13:49 PKT 2022
+base.0=D\:\\Android Projects\\Food App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

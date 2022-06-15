@@ -1,0 +1,18 @@
+com/example/bmicalculator/SplashScreen.java
+ com.example.bmicalculator.SplashScreen
+ com.example.bmicalculator.SplashScreen$1
+com/example/bmicalculator/bmicalculation.java
+ com.example.bmicalculator.bmicalculation
+ com.example.bmicalculator.bmicalculation$1
+com/example/bmicalculator/MainActivity.java
+ com.example.bmicalculator.MainActivity
+ com.example.bmicalculator.MainActivity$1
+ com.example.bmicalculator.MainActivity$2
+ com.example.bmicalculator.MainActivity$3
+ com.example.bmicalculator.MainActivity$4
+ com.example.bmicalculator.MainActivity$5
+ com.example.bmicalculator.MainActivity$6
+ com.example.bmicalculator.MainActivity$7
+ com.example.bmicalculator.MainActivity$8
+com/example/bmicalculator/BuildConfig.java
+ com.example.bmicalculator.BuildConfig
